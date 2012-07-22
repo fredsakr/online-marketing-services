@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMarketingServices", "OnlineMarketingServices\OnlineMarketingServices.csproj", "{1BE875AC-8545-4E6E-BFD1-C0D39F47310A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMarketingServices.Tests", "OnlineMarketingServices.Tests\OnlineMarketingServices.Tests.csproj", "{1C21FBF8-17B0-473F-97BE-81B28C740BA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BE875AC-8545-4E6E-BFD1-C0D39F47310A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE875AC-8545-4E6E-BFD1-C0D39F47310A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE875AC-8545-4E6E-BFD1-C0D39F47310A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE875AC-8545-4E6E-BFD1-C0D39F47310A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C21FBF8-17B0-473F-97BE-81B28C740BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C21FBF8-17B0-473F-97BE-81B28C740BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C21FBF8-17B0-473F-97BE-81B28C740BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C21FBF8-17B0-473F-97BE-81B28C740BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
